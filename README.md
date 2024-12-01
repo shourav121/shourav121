@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shourav Kumar</h1>
 <h3 align="center">Recently I am a student but my passion is software developer...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shourav121&label=Profile%20views&color=0e75b6&style=flat" alt="shourav121" /> </p>
+<p align="left"> <img src="https://www.michaelpage.nl/sites/michaelpage.nl/files/styles/advice_node_desktop/public/2021-11/Full%20Stack%20Developer.jpg.webp?itok=39Pd-iC-" alt="shourav121" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shouravkum9686" target="blank"><img src="https://img.shields.io/twitter/follow/shouravkum9686?logo=twitter&style=for-the-badge" alt="shouravkum9686" /></a> </p>
 
