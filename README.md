@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQEju1qnUQpkUA/article-cover_image-shrink_720_1280/0/1599741957570?e=2147483647&v=beta&t=rqri5338QVMvbbB9DgbGwkNQR1j5E5gTDyI71ClpG1w)
 
 <h1 align="center">Hi 👋, I'm Shourav Kumar</h1>
-<h3 align="center">Recently I am a student but my passion is software developer...</h3>
+<h2 align="center">Recently I am a student but my passion is Web Developer...</h2>
 
 <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YY24z0sADRph57JKStl_ESM7U2IEE8dpqw&s" alt="shourav121" /> </p>
 
